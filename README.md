@@ -8,8 +8,8 @@ Este projeto realiza uma análise exploratória completa da base de dados **Glob
 
 ## Objetivos
 
-- Explorar padrões geográficos e temporais dos ataques
-- Identificar as espécies de tubarões mais envolvidas
+- Explorar padrões geográficos e temporais dos ataques de tubarões
+- Identificar as espécies de tubarões mais envolvidas nos ataques
 - Analisar a relação entre atividades humanas e ataques
 - Visualizar tendências e estatísticas relevantes
 
@@ -36,7 +36,7 @@ shark-attack-analysis/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/shark-attack-analysis.git
+git clone https://github.com/iurialb/shark-attack-analysis.git
 cd shark-attack-analysis
 ```
 
